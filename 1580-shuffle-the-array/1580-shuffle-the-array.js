@@ -7,9 +7,9 @@ var shuffle = function(nums, n) {
     const ans = [];
     let first = 0;
     let second = n
-    for (let i = 0; i<2*n; i++){
-        if (i%2===0) ans[i] = nums[first++];
-        else ans[i] = nums[second++]
+    while(first<n && second<2*n){
+        ans.push(nums[first++]);
+        ans.push(nums[second++]);
     }
     return ans;
 };
