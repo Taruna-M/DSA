@@ -10,6 +10,7 @@
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Taruna-M/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Taruna-M/DSA/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -24,10 +25,16 @@
 ## Hash Table
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
