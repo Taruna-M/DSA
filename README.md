@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/Taruna-M/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Taruna-M/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Taruna-M/DSA/tree/master/2058-concatenation-of-array) |
