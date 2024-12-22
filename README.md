@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0961-long-pressed-name](https://github.com/Taruna-M/DSA/tree/master/0961-long-pressed-name) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Taruna-M/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Taruna-M/DSA/tree/master/3451-string-compression-iii) |
 ## Array
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
+| [0961-long-pressed-name](https://github.com/Taruna-M/DSA/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
