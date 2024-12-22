@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Taruna-M/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Taruna-M/DSA/tree/master/1580-shuffle-the-array) |
@@ -47,11 +48,13 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0961-long-pressed-name](https://github.com/Taruna-M/DSA/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 ## Stack
 |  |
