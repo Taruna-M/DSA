@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Taruna-M/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Taruna-M/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Taruna-M/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
