@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Taruna-M/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
