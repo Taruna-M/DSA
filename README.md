@@ -79,4 +79,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Taruna-M/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Taruna-M/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Binary Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Taruna-M/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
