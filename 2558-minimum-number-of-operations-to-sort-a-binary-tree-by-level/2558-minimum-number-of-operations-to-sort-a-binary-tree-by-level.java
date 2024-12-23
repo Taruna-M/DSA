@@ -20,27 +20,27 @@ class Solution {
         int count = 0;
         while (!queue.isEmpty()) {
             int n = queue.size();
-            int[] arr = new int[n];
+            List<Integer> arr = new ArrayList<>();
             
             for (int i = 0; i < n; i++) {
                 TreeNode node = queue.poll();
                 if (node != null) {
-                    arr[i]=node.val;
+                    arr.add(node.val);
                     if (node.left != null) queue.add(node.left);
                     if (node.right != null) queue.add(node.right);
                 }
             }
-            int[] sortedArr = arr.clone();
-            Arrays.sort(sortedArr);
+            List<Integer> sortedArr = new ArrayList<>(arr);
+            Collections.sort(sortedArr);
             Map<Integer, Integer> map = new HashMap<>();
             for (int i=0; i<n; i++){
-                map.put(arr[i], i);
+                map.put(arr.get(i), i);
             }
             for (int i=0; i<n; i++){
-                if (arr[i]!=sortedArr[i]){
-                    int index = map.get(sortedArr[i]);
-                    map.put(arr[i], index);
-                    arr[index] = arr[i]; 
+                if (arr.get(i)!=sortedArr.get(i)){
+                    int index = map.get(sortedArr.get(i));
+                    map.put(arr.get(i), index);
+                    arr.set(index, arr.get(i));
                     count++;
                 }
             }
