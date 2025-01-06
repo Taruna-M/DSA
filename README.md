@@ -5,6 +5,7 @@
 | ------- |
 | [0961-long-pressed-name](https://github.com/Taruna-M/DSA/tree/master/0961-long-pressed-name) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Taruna-M/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Taruna-M/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Taruna-M/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Taruna-M/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Taruna-M/DSA/tree/master/3451-string-compression-iii) |
@@ -21,6 +22,7 @@
 | [1580-shuffle-the-array](https://github.com/Taruna-M/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Taruna-M/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Taruna-M/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/Taruna-M/DSA/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/Taruna-M/DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -36,6 +38,7 @@
 | [0238-product-of-array-except-self](https://github.com/Taruna-M/DSA/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Taruna-M/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Taruna-M/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Taruna-M/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Taruna-M/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Taruna-M/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
