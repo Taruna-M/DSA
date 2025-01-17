@@ -29,6 +29,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/Taruna-M/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Taruna-M/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2792-neighboring-bitwise-xor](https://github.com/Taruna-M/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Simulation
 |  |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Taruna-M/DSA/tree/master/1524-string-matching-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2792-neighboring-bitwise-xor](https://github.com/Taruna-M/DSA/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
