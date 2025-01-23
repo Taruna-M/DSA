@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Taruna-M/DSA/tree/master/0238-product-of-array-except-self) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Taruna-M/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Taruna-M/DSA/tree/master/1580-shuffle-the-array) |
@@ -57,6 +58,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
@@ -102,6 +104,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Taruna-M/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
@@ -116,4 +119,16 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Taruna-M/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2792-neighboring-bitwise-xor](https://github.com/Taruna-M/DSA/tree/master/2792-neighboring-bitwise-xor) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
