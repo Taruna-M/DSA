@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Taruna-M/DSA/tree/master/1558-course-schedule-iv) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Taruna-M/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Taruna-M/DSA/tree/master/1558-course-schedule-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Taruna-M/DSA/tree/master/1558-course-schedule-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Taruna-M/DSA/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
