@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Taruna-M/DSA/tree/master/0020-valid-parentheses) |
 | [0961-long-pressed-name](https://github.com/Taruna-M/DSA/tree/master/0961-long-pressed-name) |
 | [1524-string-matching-in-an-array](https://github.com/Taruna-M/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Taruna-M/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -86,6 +87,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Taruna-M/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Taruna-M/DSA/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
