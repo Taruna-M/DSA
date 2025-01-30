@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Taruna-M/DSA/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Taruna-M/DSA/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Taruna-M/DSA/tree/master/1558-course-schedule-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Taruna-M/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
