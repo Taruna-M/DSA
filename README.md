@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Taruna-M/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Taruna-M/DSA/tree/master/0070-climbing-stairs) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
@@ -163,5 +164,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Taruna-M/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Taruna-M/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Taruna-M/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
