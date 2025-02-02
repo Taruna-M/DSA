@@ -39,6 +39,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Taruna-M/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Taruna-M/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3429-special-array-i](https://github.com/Taruna-M/DSA/tree/master/3429-special-array-i) |
 ## Simulation
 |  |
 | ------- |
