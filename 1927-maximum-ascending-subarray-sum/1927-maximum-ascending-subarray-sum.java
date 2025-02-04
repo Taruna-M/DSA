@@ -1,11 +1,11 @@
 class Solution {
     public int maxAscendingSum(int[] nums) {
-        int n = nums.length, max = nums[0], sum = nums[0];
+        int start = 0, n = nums.length, max = 0, sum = nums[0];
         for (int i = 1; i<n; i++){
-            while (i<n && nums[i]>nums[i-1]) sum+=nums[i++];
+            if (nums[i]>nums[i-1]) sum+=nums[i];
             max = Math.max(max, sum);
-            if (i<n) sum = nums[i];
+            if (nums[i]<=nums[i-1]) sum = nums[i];
         }
-        return max;
+        return Math.max(max, sum);
     }
 }
