@@ -9,6 +9,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Taruna-M/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Taruna-M/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Taruna-M/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Taruna-M/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Taruna-M/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Taruna-M/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Taruna-M/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -65,6 +66,7 @@
 | [0141-linked-list-cycle](https://github.com/Taruna-M/DSA/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Taruna-M/DSA/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Taruna-M/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Taruna-M/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -73,6 +75,7 @@
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Taruna-M/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
