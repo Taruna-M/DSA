@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/Taruna-M/DSA/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Taruna-M/DSA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1364-tuple-with-same-product](https://github.com/Taruna-M/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Taruna-M/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -65,6 +66,7 @@
 | [0001-two-sum](https://github.com/Taruna-M/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Taruna-M/DSA/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Taruna-M/DSA/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/Taruna-M/DSA/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Taruna-M/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Taruna-M/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -73,6 +75,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Taruna-M/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Taruna-M/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
