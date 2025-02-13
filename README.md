@@ -40,6 +40,7 @@
 | [2058-concatenation-of-array](https://github.com/Taruna-M/DSA/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/Taruna-M/DSA/tree/master/2358-number-of-ways-to-split-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Taruna-M/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Taruna-M/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Taruna-M/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -71,6 +72,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Taruna-M/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Taruna-M/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Taruna-M/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Taruna-M/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Taruna-M/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
@@ -102,6 +104,7 @@
 | [0015-3sum](https://github.com/Taruna-M/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Taruna-M/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Taruna-M/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Taruna-M/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
