@@ -1,22 +1,14 @@
 class Solution {
     public int maximumSum(int[] nums) {
         int ans = -1, n = nums.length;
-        int[] sums = new int[n];
         Map<Integer, PriorityQueue<Integer>> map = new HashMap<>();
-        for (int i=0; i<n; i++){
-            sums[i] = sumOfDigits(nums[i]);
+        for (int num: nums){
+            int sum = sumOfDigits(num);
+            map.putIfAbsent(sum, new PriorityQueue<>(Collections.reverseOrder()));
+            map.get(sum).add(num);
         }
-        for (int i=0; i<n; i++){
-            map.putIfAbsent(sums[i], new PriorityQueue<>(Collections.reverseOrder()));
-            map.get(sums[i]).add(nums[i]);
-        }
-        for (Map.Entry<Integer, PriorityQueue<Integer>> entry : map.entrySet()) {
-            PriorityQueue<Integer> index = entry.getValue();
-            if (index.size()>1){
-                int sum = 0;
-                sum+=index.poll()+index.poll();
-                ans = Math.max(sum,ans);
-            }
+        for (PriorityQueue<Integer> heap : map.values()) {
+            if (heap.size()>1) ans = Math.max(ans,heap.poll()+heap.poll());
         }
         return ans;
     }
