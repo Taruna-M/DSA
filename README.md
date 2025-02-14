@@ -28,6 +28,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1364-tuple-with-same-product](https://github.com/Taruna-M/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Taruna-M/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Taruna-M/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Taruna-M/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Taruna-M/DSA/tree/master/1580-shuffle-the-array) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Taruna-M/DSA/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Taruna-M/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Taruna-M/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Taruna-M/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Taruna-M/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Taruna-M/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Taruna-M/DSA/tree/master/0070-climbing-stairs) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Taruna-M/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Taruna-M/DSA/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -222,4 +225,12 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Taruna-M/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Taruna-M/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Taruna-M/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
