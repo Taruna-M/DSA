@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/Taruna-M/DSA/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Taruna-M/DSA/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Taruna-M/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0907-koko-eating-bananas](https://github.com/Taruna-M/DSA/tree/master/0907-koko-eating-bananas) |
 | [1364-tuple-with-same-product](https://github.com/Taruna-M/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Taruna-M/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Taruna-M/DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -245,4 +246,5 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taruna-M/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Taruna-M/DSA/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
