@@ -8,7 +8,7 @@ class Solution {
                 if (target<nums[low] || target>nums[mid]) low = mid+1;
                 else high = mid - 1;
             }
-            else if (nums[mid]<=nums[high]){
+            if (nums[mid]<=nums[high]){
                 if (target<nums[mid] || target>nums[high]) high = mid - 1;
                 else low = mid + 1;
             }
