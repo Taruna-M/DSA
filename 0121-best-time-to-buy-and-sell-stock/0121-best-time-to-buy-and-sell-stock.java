@@ -9,8 +9,11 @@ class Solution {
                 profit = Math.max(prices[j]-prices[i], profit);
                 j++;
             }
-            if (j<n && prices[j]<prices[i]) i = j;
-            j++;
+            if (j<n && prices[j]<prices[i]){
+                i = j;
+                j++;
+            }
+            
         }
         return profit;
     }
