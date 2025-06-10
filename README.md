@@ -26,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Taruna-M/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Taruna-M/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Taruna-M/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taruna-M/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Taruna-M/DSA/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Taruna-M/DSA/tree/master/0496-next-greater-element-i) |
@@ -150,6 +151,7 @@
 | [0042-trapping-rain-water](https://github.com/Taruna-M/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Taruna-M/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Taruna-M/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Taruna-M/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
