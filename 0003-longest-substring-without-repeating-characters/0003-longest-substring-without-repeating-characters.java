@@ -6,13 +6,11 @@ class Solution {
         int ans = 0;
         while (j<n){
             if (!set.contains(arr[j])){
-                set.add(arr[j]);
                 ans = Math.max(j-i+1, ans);
-                j++;
+                set.add(arr[j++]);
             }
             else{
-                set.remove(arr[i]);
-                i++;
+                set.remove(arr[i++]);
             }
         }
         return ans;
