@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Taruna-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Taruna-M/DSA/tree/master/0020-valid-parentheses) |
 | [0961-long-pressed-name](https://github.com/Taruna-M/DSA/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Taruna-M/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Taruna-M/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Taruna-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Taruna-M/DSA/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Taruna-M/DSA/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/Taruna-M/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -254,4 +256,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Taruna-M/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taruna-M/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Taruna-M/DSA/tree/master/0907-koko-eating-bananas) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Taruna-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
